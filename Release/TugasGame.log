@@ -1,0 +1,9 @@
+﻿  TugasGame.cpp
+E:\KULIAH EDU\SEMESTER 4\Kecerdasan Buatan\FinalProject\TugasGame\TugasGame.cpp(230,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\KULIAH EDU\SEMESTER 4\Kecerdasan Buatan\FinalProject\TugasGame\TugasGame.cpp(230,15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 79 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TugasGame.vcxproj -> E:\KULIAH EDU\SEMESTER 4\Kecerdasan Buatan\FinalProject\TugasGame\Release\TugasGame.exe

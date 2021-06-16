@@ -1,0 +1,13 @@
+﻿  TugasGame.cpp
+E:\TugasGame\TugasGame.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\TugasGame\TugasGame.cpp(67,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(67,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(132,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\TugasGame\TugasGame.cpp(145,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(145,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(198,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(198,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(253,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(253,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\TugasGame\TugasGame.cpp(102,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
